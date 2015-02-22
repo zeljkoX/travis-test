@@ -1,3 +1,3 @@
 # travis-test
 Testing travis
-https://travis-ci.org/zeljkoX/travis-test.svg
+[![Build Status](https://travis-ci.org/zeljkoX/travis-test.svg?branch=master)](https://travis-ci.org/zeljkoX/travis-test)
